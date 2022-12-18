@@ -27,3 +27,4 @@ public class Human {
                 jobTitle + ". Будем знакомы!");
     }
 }
+// by Igor
