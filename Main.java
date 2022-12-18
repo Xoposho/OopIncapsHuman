@@ -11,3 +11,4 @@ public class Main {
         artem.presents();
     }
 }
+// by Igor
